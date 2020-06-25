@@ -1,0 +1,57 @@
+
+
+   body{
+     background-color: #ddf3f5;
+   }
+
+   hr{
+
+     border-style: dotted none none;
+     border-color: grey;
+     border-width: 5px;;
+     width:5%;
+   }
+h1
+{
+  color:#66BFBF;
+  width: 2px;
+}
+h3
+{
+  color:#66BFBF;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+/* class selector*/
+
+.circular
+{
+  border-radius: 100%;
+}
+
+.food
+{
+  border-radius: 100%;
+  background-color: black;
+}
+/* id selector*/
+
+#t1
+{
+  table-layout: fixed;
+background-color: #a6dcef;
+border:2px white;
+border-style: solid;
+width:50%;
+}
+ #t2
+ {
+   table-layout: fixed;
+ background-color: #a6dcef;
+ border:2px white;
+ border-style: solid;
+ 
+ }
